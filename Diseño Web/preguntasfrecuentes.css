@@ -1,0 +1,30 @@
+*
+{background-color: black;}
+
+body
+{color: rgba(192, 12, 12, 0.836) ;}
+
+.preguntas-frecuentes
+
+{display: flex;
+}
+
+ h1
+ {background-color: rgba(255, 255, 255, 0.753);
+ border: solid 3px rgba(192, 12, 12, 0.836);
+padding: 0px;
+width: 300px;
+margin: 20px;}
+
+h2
+{background-color: rgba(255, 255, 255, 0.753);
+border: solid rgba(192, 12, 12, 0.836) 3px;
+padding: 0px;
+width: 300px;
+margin: 20px;
+}
+
+p
+{border: solid 5px rgba(192, 12, 12, 0.836);
+background-color: rgba(255, 255, 255, 0.753);
+}
